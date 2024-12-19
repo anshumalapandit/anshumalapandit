@@ -32,6 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumalapandit&show_icons=true&locale=en" alt="anshumalapandit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumalapandit&theme=default" alt="anshumalapandit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumalapandit&theme=default&v=1" alt="anshumalapandit" /></p>
 
 
